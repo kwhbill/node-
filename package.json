@@ -23,7 +23,7 @@
     "latest": "~0.1.2",
     "moment": "~2.5.1",
     "mongoose": "4.8.2",
-    "underscore": "~1.6.0"
+    "underscore": "~1.12.1"
   },
   "devDependencies": {},
   "scripts": {
